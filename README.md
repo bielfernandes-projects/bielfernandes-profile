@@ -1,9 +1,5 @@
 <h1 align="center">Olá 👋! Aqui é o Gabriel Fernandes</h1>
-<h3 align="center">Um Cientista de Dados em construção!</h3>
-
-- 🌱 Atualmente estou aprendendo **SQL, Power BI e Python**
-
-- 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel e Python**
+<h3 align="center">Um Product Manager em construção, mas atualmente Product Owner!</h3>
 
 - 📫 Você me acha através do e-mail **gabriel.fernandeshw@gmail.com**
 
